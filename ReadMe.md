@@ -1,1 +1,1 @@
-c
+A pack of codes illustrating how an optimization problem (e.g., a mixed-integer linear program) in Operations Research (OR) is solved via different Python packages, namely, mip, pulp, pyomo, ortools, pymoo, and gekko. Please refer to https://www.supplychaindataanalytics.com/modeling-and-solving-optimization-problems-in-python/ for more information. 

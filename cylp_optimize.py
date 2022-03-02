@@ -2,6 +2,7 @@
 #!pip install cylp
 
 # Import package
+from cylp.cy import CyClpSimplex
 import cylp as op 
 
 # Define environment

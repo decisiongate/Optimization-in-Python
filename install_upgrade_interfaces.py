@@ -1,5 +1,4 @@
 #To install 
-
 !pip install pyomo
 !pip install pulp
 !pip install cvxopt
@@ -11,7 +10,6 @@
 !pip install pymoo
 !pip install mip
 !pip install cylp
-
 
 #To upgrade 
 !pip install --upgrade pyomo

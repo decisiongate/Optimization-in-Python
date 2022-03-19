@@ -8,7 +8,7 @@
 !pip install drake
 !pip install ortools
 !pip install gekko
-1pip install pymoo
+!pip install pymoo
 !pip install mip
 !pip install cylp
 
@@ -22,6 +22,6 @@
 !pip install --upgrade drake
 !pip install --upgrade ortools
 !pip install --upgrade gekko
-1pip install --upgrade pymoo
+!pip install --upgrade pymoo
 !pip install --upgrade mip
 !pip install --upgrade cylp

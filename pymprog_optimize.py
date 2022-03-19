@@ -4,7 +4,7 @@
 # Import package
 import pymprog as op
 
-# Define environment & direction of optimization
+# Define environment
 op.begin('MyOptProb')
 
 # Define decision variables

@@ -6,6 +6,7 @@
 !pip install pymprog
 !pip install ortools
 !pip install gekko
+!pip install picos
 !pip install pymoo
 !pip install mip
 !pip install cylp
@@ -20,6 +21,7 @@
 !pip install --upgrade pymprog
 !pip install --upgrade ortools
 !pip install --upgrade gekko
+!pip install --upgrade picos
 !pip install --upgrade pymoo
 !pip install --upgrade mip
 !pip install --upgrade cylp

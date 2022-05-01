@@ -10,6 +10,7 @@
 !pip install pymoo
 !pip install mip
 !pip install cylp
+!pip install optlang
 #Does not work with Anaconda:
 !pip install drake 
 
@@ -25,5 +26,6 @@
 !pip install --upgrade pymoo
 !pip install --upgrade mip
 !pip install --upgrade cylp
+!pip install --upgrade optlang
 #Does not work with Anaconda:
 !pip install --upgrade drake
